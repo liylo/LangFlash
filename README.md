@@ -4,7 +4,7 @@ Yilong Liu, Wanhua Li, Chen Zhu-Tian, Hanspeter Pfister
 
 [[Paper](https://arxiv.org/abs/2605.23287)] [[Project Page](https://liylo.github.io/langflash.github.io/)]
 
-![fig1_00](assets\fig1_00.jpg)
+![fig1_00](assets/fig1_00.jpg)
 
 LangFlash is a feed-forward framework for 3D language Gaussian splatting from sparse, unposed input images.
 
