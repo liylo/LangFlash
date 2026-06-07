@@ -52,10 +52,8 @@ The dataset release contains:
 
 ```text
 scannet_extracted_sp   ScanNet data and metadata
-test_lang_c            RE10K continuous masks for testing
-clip_test              RE10K language features corresponding to the test masks
-train_lang_c           RE10K continuous masks for training
-clip_test_part{i}      RE10K language features corresponding to the training masks
+clip_test              RE10K test language features and corresponding masks
+clip_train_part{i}      RE10K training language features and corresponding masks
 ```
 
 ## Acknowledgements
